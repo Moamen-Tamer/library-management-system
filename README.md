@@ -149,7 +149,7 @@ await library.displayBooks(book => book.author === 'alice monroe');
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/js-library-management-system.git
+git clone https://github.com/yourusername/library-management-system.git
 ```
 
 2. Include the library in your project:
